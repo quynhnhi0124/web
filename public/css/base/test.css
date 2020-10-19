@@ -1,0 +1,48 @@
+html{
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: 'Playfair Display', serif !important;
+}
+
+
+.jumbotron{
+    background-image: url("/img/stock.png") !important;
+    background-size: cover;
+    height: 300px;
+}
+
+
+table tr{
+    text-align: center;
+}
+
+
+table tr i{
+    margin: 0 5px;
+}
+
+.btn-add{
+    float: right;
+    margin: 10px 0;
+}
+
+.search-bar{
+    width: 100%;
+}
+
+
+footer{
+    background-image: url("/img/stock.png") !important;
+    background-size: cover;
+    /* height: 300px; */
+    padding: 45px 0;
+}
+
+.network i{
+    margin: 0 10px;
+}
+
+
